@@ -1,4 +1,4 @@
-<h1 align="center">hELLO WORLD</> I'm Ajmine</h1>
+<h1 align="center">Hello I'm Ajmine</h1>
 <h3 align="center">🚀 I'm an aspiring CSE student at Daffodil International University, passionate about system-level tech, cybersecurity, and real-world problem solving through code. 👨‍💻 I work on custom ROMs, automation projects, and computer vision tools using Python and Linux. I'm currently building the "LifeSaver" blood donation app and exploring low-level hardware integration with IoT sensors.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmine03&label=Profile%20views&color=0e75b6&style=flat" alt="ajmine03" /> </p>
