@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmine03&label=Profile%20views&color=0e75b6&style=flat" alt="ajmine03" /> </p>
 
-- 🔭 I’m currently working on **🩸 LifeSaver — a blood donation platform for real-life emergencies**
-
-- 🌱 I’m currently learning **Web Development Basics (to start Web Hacking), Data Structures & Algorithms (for CP and interview prep), Computer Vision with Python (OpenCV + MediaPipe)**
-
-- 👯 I’m looking to collaborate on **🤖 Gas Leakage Detection System (hardware academic project using MQ-2 and ESP32)**
 
 - 🤝 I’m looking for help with **Android ROM Projects,Computer Vision Tools, Any impactful Open Source projects**
 
