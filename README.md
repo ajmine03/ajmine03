@@ -1,5 +1,28 @@
-# 💫 About Me:
-This version fits your current work much better and feels more authentic to your journey:<br><br>🔭 Currently working on:<br>Building LINA (Linux Intelligent Native Assistant) — a local AI operating assistant for Linux powered by Ollama and Python.<br><br> Looking to collaborate on:<br>Open-source AI, Linux automation, cybersecurity, and developer tools.<br><br> Looking for help with:<br>Local LLM optimization, AI agent architecture, and secure command execution systems.<br><br> Currently learning:<br>Python, Linux internals, AI systems, cybersecurity, and problem solving.<br><br>💬 Ask me about:<br>Linux, local AI assistants, Python, beginner cybersecurity, and AI-powered automation.<br><br> Fun fact:<br>What started as a small learning experiment evolved into an actual AI operating assistant architecture called LINA.<br>
+# 💫 About Me
+
+Computer Science student passionate about AI systems, cybersecurity, Linux, and problem solving.
+
+Currently developing **LINA (Linux Intelligent Native Assistant)** — an open-source local AI operating assistant for Linux built with Python and Ollama.
+LINA can understand natural language, generate Linux commands dynamically, explain terminal outputs, and interact conversationally through local LLM inference.
+
+Interested in:
+
+* Local AI systems
+* Linux automation
+* Cybersecurity
+* AI-assisted developer tools
+* Open-source technologies
+
+Currently learning:
+
+* Python
+* Linux internals
+* AI agent architecture
+* Competitive programming
+* Red teaming fundamentals
+
+Open to collaborating on meaningful open-source projects related to AI, Linux, and security.
+
 
 
 ## 🌐 Socials:
