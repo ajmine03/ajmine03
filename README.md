@@ -37,13 +37,13 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=ajmine03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/ajmine03/ajmine03/output/streak.svg" alt="streak graph" />
 </div>
 
 ###
 
 <div data-importer="trophy" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajmine03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
+  <img src="https://raw.githubusercontent.com/ajmine03/ajmine03/output/trophy.svg" alt="trophy graph" />
 </div>
 
 ###
