@@ -3,25 +3,31 @@
 ###
 
 <div data-importer="techs" align="center">
-<img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<img src="https://skillicons.dev/icons?i=android" height="50" alt="android logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
 </div>
 
 ###
