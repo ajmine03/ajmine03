@@ -3,31 +3,33 @@
 ###
 
 <div data-importer="techs" align="center">
-<img src="https://skillicons.dev/icons?i=android" height="50" alt="android logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
-<img width="8" />
-<img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <h3>Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=rust" height="45" alt="rust logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" />
+  </p>
+
+  <h3>Tools / Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo" />
+  </p>
 </div>
 
 ###
@@ -59,13 +61,13 @@
   <img src="https://raw.githubusercontent.com/ajmine03/ajmine03/output/streak.svg" alt="streak graph" />
 </div>
 
-###
-
+<!--
 <div data-importer="trophy" align="center">
   <img src="https://raw.githubusercontent.com/ajmine03/ajmine03/output/trophy.svg" alt="trophy graph" />
 </div>
 
 ###
+-->
 
 <div data-importer="pacman" align="center">
   <picture>
