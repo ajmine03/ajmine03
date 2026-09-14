@@ -1,60 +1,75 @@
-# 💫 About Me
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-Computer Science student passionate about AI systems, cybersecurity, Linux, and problem solving.
+###
 
-Interested in:
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo"  />
+</div>
 
-* Local AI systems
-* Linux automation
-* Cybersecurity
-* AI-assisted developer tools
-* Open-source technologies
+###
 
-Currently learning:
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ajmine03.ajmine03&"  />
+</div>
 
-* Rust
-* Java
+###
 
-Open to collaborating on meaningful open-source projects related to AI, Linux, and security.
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-## 🌐 Socials:
+###
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ajmin3_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ajmin3)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ajmineadil@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/ajmin3)
-[![VJudge](https://img.shields.io/badge/VJudge-5A5A5A?logo=hackthebox\&logoColor=white)](https://vjudge.net/user/ajmine_172)
-[![AtCoder](https://img.shields.io/badge/AtCoder-000000?logo=atcoder\&logoColor=white)](https://atcoder.jp/users/ajmin3)
-[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-FE7A16?logo=codeforces\&logoColor=white)](https://judge.beecrowd.com/en/profile/ajmine_)
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-# 💻 Tech Stack:
+###
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge\&logo=tor-project\&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-7A42F4?style=for-the-badge\&logo=alibabacloud\&logoColor=white)
-![Local%20LLM](https://img.shields.io/badge/Local%20LLM-111111?style=for-the-badge\&logo=openai\&logoColor=white)
+<p data-importer="text" align="left">I'm A.M., a Computer Science student at Daffodil International University (DIU).<br><br>- 🔭 I'm focused on local AI systems, Linux automation and cybersecurity<br>- 📚 I'm currently learning Rust and Java<br>- ⚡ In my free time I do competitive programming (Codeforces, AtCoder, VJudge, BeeCrowd)</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ajmine03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ajmine03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajmine03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ajmine03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajmine03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://komarev.com/ghpvc/?username=ajmine03&icon=0&color=0)](https://visitcount.itsvg.in)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ajmine03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
