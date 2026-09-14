@@ -2,9 +2,6 @@
 
 Computer Science student passionate about AI systems, cybersecurity, Linux, and problem solving.
 
-Currently developing **LINA (Linux Intelligent Native Assistant)** — an open-source local AI operating assistant for Linux built with Python and Ollama.
-LINA can understand natural language, generate Linux commands dynamically, explain terminal outputs, and interact conversationally through local LLM inference.
-
 Interested in:
 
 * Local AI systems
@@ -15,15 +12,10 @@ Interested in:
 
 Currently learning:
 
-* Python
-* Linux internals
-* AI agent architecture
-* Competitive programming
-* Red teaming fundamentals
+* Rust
+* Java
 
 Open to collaborating on meaningful open-source projects related to AI, Linux, and security.
-
-
 
 ## 🌐 Socials:
 
@@ -34,7 +26,6 @@ Open to collaborating on meaningful open-source projects related to AI, Linux, a
 [![VJudge](https://img.shields.io/badge/VJudge-5A5A5A?logo=hackthebox\&logoColor=white)](https://vjudge.net/user/ajmine_172)
 [![AtCoder](https://img.shields.io/badge/AtCoder-000000?logo=atcoder\&logoColor=white)](https://atcoder.jp/users/ajmin3)
 [![BeeCrowd](https://img.shields.io/badge/BeeCrowd-FE7A16?logo=codeforces\&logoColor=white)](https://judge.beecrowd.com/en/profile/ajmine_)
-
 
 # 💻 Tech Stack:
 
@@ -67,5 +58,3 @@ Open to collaborating on meaningful open-source projects related to AI, Linux, a
 
 ---
 [![](https://komarev.com/ghpvc/?username=ajmine03&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
