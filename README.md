@@ -37,18 +37,29 @@
 ###
 
 <div data-importer="stats" align="center">
-<img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=ajmine03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
 </div>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<div data-importer="trophy" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajmine03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
+</div>
+
+###
+
+<div data-importer="pacman" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajmine03/ajmine03/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajmine03/ajmine03/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ajmine03/ajmine03/output/pacman-contribution-graph-dark.svg" />
+  </picture>
+</div>
 
 ###
 
 <div data-importer="profile-views" align="center">
-<img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ajmine03.ajmine03&" alt="visitors" />
 </div>
 
 ###
