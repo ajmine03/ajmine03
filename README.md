@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey It's Ajmine👋What's Up?</h1>
+<h1 data-importer="text" align="center">Hey It's Ajmine </h1>
 
 ###
 
